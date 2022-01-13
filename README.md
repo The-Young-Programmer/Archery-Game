@@ -2,7 +2,7 @@
 
 Written by The Young Programmer 💻
 
-## The Game
+# The Game
 
 ### Description
 
@@ -13,7 +13,7 @@ The bow moves to and fro on the left side of the screen and, on the other side, 
 
 This game was developped using a web intetface i.e HTML, CSS and JavaScript.
 So this game can only be played on the web, but very soon an App will be cteated for this game, when its fully modified.
-link to play the game: [click here](#)
+-link to play the game: [click here](https://the-young-programmer.github.io/Archery-Game/)
 
 ### Support 
 
